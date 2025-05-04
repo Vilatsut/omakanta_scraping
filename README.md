@@ -17,10 +17,14 @@ This repository contains a Python-based project designed for scraping data from 
 
 ## Usage
 
-Run the script:
+1. Run the script:
 ```bash
 python scrape.py
 ```
+2. Log in via Suomi.fi when prompted
+3. Press enter in the bash window.
+4. Magic
+
 
 ## License
 
